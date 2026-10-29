@@ -1,0 +1,6 @@
+pyproject.toml
+src/senmarket/chemins.py
+src/senmarket.egg-info/PKG-INFO
+src/senmarket.egg-info/SOURCES.txt
+src/senmarket.egg-info/dependency_links.txt
+src/senmarket.egg-info/top_level.txt

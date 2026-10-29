@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: senmarket
+Version: 0.1.0
+Summary: Projet de traitement et d'analyse de données SenMarket
+Requires-Python: >=3.14
