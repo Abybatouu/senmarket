@@ -4,3 +4,5 @@ __pycache__/
 *.py[cod]
 data/
 logs/
+# Métadonnées générées par Python
+*.egg-info/
